@@ -1,0 +1,3 @@
+[submodule "influence"]
+	path = influence
+	url = https://github.com/kohpangwei/influence-release
